@@ -1,4 +1,6 @@
 # ai-evan-Open-source-2.4-inch-UART-screen
+
+![image](https://github.com/ai-evan/ai-evan-Open-source-2.4-inch-UART-screen/blob/main/3D_24inch240320_V1.30_2026-02-11.png)
 Open source a 2.4-inch UART screen with free UI design. This project releases the hardware design and schematic design as open source.
 开源一个 2.4 寸的串口屏，免费使用 UI 设计，该项目开源硬件设计和原理图设计，屏幕的型号可以在网站上购买到，固件可以根据需求修改，固件源码由于有NDA，无法提供源码，UI的工程源码请参考工程。
 液晶屏的链接 LCD screen link
